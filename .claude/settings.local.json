@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "mcp__claude-in-chrome__list_connected_browsers",
+      "WebFetch(domain:yelasai.com)",
+      "Bash(find /Users/ineslehner -maxdepth 4 -iname \"*fotos*\" -o -iname \"*caroline*anne*\" 2>/dev/null | grep -v \"Library\\\\|\\\\.Trash\")",
+      "Bash(git add *)"
     ]
   }
 }
