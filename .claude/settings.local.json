@@ -13,7 +13,15 @@
       "Bash(mkdir -p ~/.claude/skills)",
       "Bash(cp -r \"/Users/ineslehner/Desktop/content-skill/content\" ~/.claude/skills/content)",
       "Bash(cp -r \"/Users/ineslehner/Desktop/werbeanzeigen-skill/werbeanzeigentext\" ~/.claude/skills/werbeanzeigentext)",
-      "mcp__mcp-registry__search_mcp_registry"
+      "mcp__mcp-registry__search_mcp_registry",
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:doc-04-00-docstext.googleusercontent.com)",
+      "Bash(curl -sI --max-time 10 https://api.github.com/repos/liamcain/obsidian-calendar-plugin/releases/latest)",
+      "Read(//Users/ineslehner/Claude/**)",
+      "Bash(defaults read *)",
+      "Bash(mdls -name kMDItemVersion /Applications/Obsidian.app)",
+      "Bash(mdfind \"kMDItemFSName == 'Obsidian.app'\")",
+      "Bash(git commit *)"
     ]
   }
 }
