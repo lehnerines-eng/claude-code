@@ -5,7 +5,15 @@
       "mcp__claude-in-chrome__list_connected_browsers",
       "WebFetch(domain:yelasai.com)",
       "Bash(find /Users/ineslehner -maxdepth 4 -iname \"*fotos*\" -o -iname \"*caroline*anne*\" 2>/dev/null | grep -v \"Library\\\\|\\\\.Trash\")",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(ls -la \"/Users/ineslehner/.claude/projects/-Users-ineslehner-claude-code/\" 2>&1; echo \"---find---\"; find \"/Users/ineslehner/.claude/projects\" -maxdepth 1 -iname \"*claude-code*\" 2>&1)",
+      "Bash(ls -la ~/.claude/skills/ 2>&1 || echo \"existiert noch nicht\")",
+      "Bash(mkdir -p ~/.claude/skills)",
+      "Bash(cp -r \"/Users/ineslehner/Desktop/content-skill/content\" ~/.claude/skills/content)",
+      "Bash(cp -r \"/Users/ineslehner/Desktop/werbeanzeigen-skill/werbeanzeigentext\" ~/.claude/skills/werbeanzeigentext)",
+      "mcp__mcp-registry__search_mcp_registry"
     ]
   }
 }
