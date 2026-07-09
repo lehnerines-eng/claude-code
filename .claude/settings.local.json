@@ -21,7 +21,25 @@
       "Bash(defaults read *)",
       "Bash(mdls -name kMDItemVersion /Applications/Obsidian.app)",
       "Bash(mdfind \"kMDItemFSName == 'Obsidian.app'\")",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(python3 -c \"import fitz\")",
+      "Bash(python3 -c \"import PyPDF2\")",
+      "Bash(python3 -c \"import pdfplumber\")",
+      "Bash(brew install *)",
+      "Bash(python3 -m pip --version)",
+      "Bash(python3 -m pip install --user --quiet pypdf)",
+      "Bash(python3 -c ' *)",
+      "Bash(mkdir -p \"/Users/ineslehner/claude code/01-haarwuchsspezialistin/fachwissen\" && cp \"/Users/ineslehner/Library/Containers/com.brother.pdfreaderprofree.mac/Data/tmp/Die_Sprache_der_Haare_Praxiswissen_fuer_moderne_Haarwuchs-Spezialisten.pdf\" \"/Users/ineslehner/claude code/01-haarwuchsspezialistin/fachwissen/\" && ls -la \"/Users/ineslehner/claude code/01-haarwuchsspezialistin/fachwissen/\")",
+      "WebFetch(domain:chatgpt.com)",
+      "mcp__claude-in-chrome__navigate",
+      "mcp__claude-in-chrome__get_page_text",
+      "Bash(mv kapitel-02-der-natuerliche-haarzyklus.md schritt-01-warum-schneiden-haare-wachsen-laesst.md)",
+      "Bash(mv kapitel-03-die-kopfhaut-als-basis.md schritt-02-die-magische-basis-kopfhaut.md)",
+      "Bash(mv kapitel-04-warum-haare-ausfallen.md schritt-03-warum-haare-wirklich-ausfallen.md)",
+      "Bash(mv kapitel-05-ernaehrung-und-haare.md schritt-04-die-magische-kraft-der-ernaehrung.md)",
+      "Bash(mv kapitel-06-die-richtige-reinigung.md schritt-05-die-magische-reinigung.md)",
+      "Bash(pandoc -t markdown \"/Users/ineslehner/Downloads/Buchdateien /Taschenbuch neu Die 7 Grundlagen zur Lösung der gängigsten Haarprobleme.docx\")",
+      "Bash(python3 -m pip install --user --quiet python-docx)"
     ]
   }
 }
