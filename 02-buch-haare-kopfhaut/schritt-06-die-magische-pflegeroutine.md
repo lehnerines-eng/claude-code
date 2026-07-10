@@ -4,7 +4,7 @@ Eine gute Reinigung ist die Basis. Darauf lässt sich eine Routine aufbauen, die
 
 ## Warum eine einfache Routine mehr bringt als viele Produkte
 
-In meinem Alltag als Naturfriseurin erlebe ich oft, dass tägliches Bürsten für viele eine echte Umstellung ist – nicht, weil es kompliziert wäre, sondern weil es schlicht keine eingeübte Gewohnheit ist. Dabei ist die Bürstenmassage vermutlich der wirkungsvollste einzelne Handgriff, den du für deine Kopfhaut überhaupt setzen kannst, und kostet dabei nichts außer ein paar Minuten am Tag.
+In meinem Alltag als Haarwuchsspezialistin erlebe ich oft, dass tägliches Bürsten für viele eine echte Umstellung ist – nicht, weil es kompliziert wäre, sondern weil es schlicht keine eingeübte Gewohnheit ist. Dabei ist die Bürstenmassage vermutlich der wirkungsvollste einzelne Handgriff, den du für deine Kopfhaut überhaupt setzen kannst, und kostet dabei nichts außer ein paar Minuten am Tag.
 
 Der Grund, warum sich diese wenigen Minuten so sehr lohnen: Bürsten reguliert die Talgproduktion, verteilt das körpereigene Sebum bis in die Spitzen, regt die Durchblutung an und löst nebenbei Verspannungen im Nacken- und Schulterbereich. Kein gekauftes Pflegeprodukt kann das in Kombination leisten. Wer sich diese Routine zur Gewohnheit macht, braucht mit der Zeit spürbar weniger an zusätzlicher Pflege von außen.
 
@@ -46,7 +46,7 @@ Um solche Verspannungen zu lösen, hilft es, die Kopfhaut mit den Fingerkuppen i
 
 Für die Bürstenmassage bewährt sich eine Bürste aus Wildschweinborsten – aus gutem Grund, den ich meinen Kundinnen gern genauer erkläre, weil er oft der fehlende Puzzlestein ist.
 
-Wildschweinborsten haben zwei Eigenschaften, die eine Bürste aus Kunststoff, Metall oder Holz nicht bieten kann. Erstens bleiben sie auch feucht stabil und fest genug, um eine echte Massagewirkung auf der Kopfhaut zu erzeugen, statt beim ersten Kontakt mit Feuchtigkeit weich zu werden. Zweitens sind sie ideal darin, Sebum aufzunehmen und weiterzutransportieren – bis in die Längen und Spitzen, wie im letzten Kapitel beschrieben. Schmutz und überschüssiges Fett, das sich dabei in den Borsten sammelt, lässt sich anschließend einfach mit Wasser wieder auswaschen.
+Wildschweinborsten haben zwei Eigenschaften, die eine Bürste aus Kunststoff, Metall oder Holz nicht bieten kann. Sie sind stabil und fest genug, um eine echte Massagewirkung auf der Kopfhaut zu erzeugen, statt beim ersten Kontakt mit Feuchtigkeit weich zu werden. Zweitens sind sie ideal darin, Sebum aufzunehmen und weiterzutransportieren – bis in die Längen und Spitzen, wie im letzten Kapitel beschrieben. Schmutz und überschüssiges Fett, das sich dabei in den Borsten sammelt, lässt sich anschließend einfach mit Wasser wieder auswaschen.
 
 Worauf es bei der Bürstenwahl konkret ankommt:
 

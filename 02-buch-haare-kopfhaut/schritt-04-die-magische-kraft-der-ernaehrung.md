@@ -2,13 +2,13 @@
 
 Ein Haar ist, rein biologisch betrachtet, kein besonders wichtiges Organ. Der Körper braucht es nicht zum Überleben – anders als Herz, Leber oder Nieren. Genau deshalb ist die Haarwurzel eine der ersten Stellen, an denen sich ein Mangel zeigt: Fehlen dem Körper wichtige Nährstoffe, versorgt er zuerst die lebenswichtigen Organe – und spart am Haar.
 
-Das ist auch der Grund, warum Ernährung in diesem Buch einen eigenen Schritt bekommt, nicht nur eine Randbemerkung. Die beste Kopfhautpflege kann nicht ausgleichen, was dem Körper von innen schlicht fehlt. Beides gehört zusammen: eine gut versorgte, gut durchblutete Kopfhaut von außen – und ausreichend Baumaterial von innen.
+Das ist auch der Grund, warum Ernährung in diesem Buch ein eigenes Kapitel bekommt, nicht nur eine Randbemerkung. Die beste Kopfhautpflege kann nicht ausgleichen, was dem Körper von innen schlicht fehlt. Beides gehört zusammen: eine gut versorgte, gut durchblutete Kopfhaut von außen – und ausreichend Baumaterial von innen.
 
 ## Warum sich ein Mangel erst spät zeigt
 
 Der Körper hat einen gewissen Puffer. Ein einzelner schlechter Ernährungstag macht keinen Unterschied. Erst wenn ein Mangel über Monate anhält, wird er im Haarwuchs sichtbar – oft erst drei bis sechs Monate später. Das macht es schwer, Ursache und Wirkung sofort zu verbinden. Wer heute schlecht isst, sieht die Folgen davon möglicherweise erst im Frühling.
 
-Diese Verzögerung sorgt in der Praxis oft für Verwirrung: Eine Kundin hat ihre Ernährung längst umgestellt und ist enttäuscht, dass sich am Haar noch nichts tut. Dabei braucht die Haarwurzel schlicht Zeit, um den neuen Nährstoffzufluss überhaupt in sichtbares Wachstum umzusetzen. Wer hier zu früh aufgibt, verpasst genau den Moment, in dem sich die Geduld auszahlen würde.
+Diese Verzögerung sorgt in der Praxis oft für Verwirrung: Eine Kundin hat ihre Ernährung längst umgestellt und ist enttäuscht, dass sich am Haar noch nichts tut. Dabei braucht die Haarwurzel schlicht Zeit, um den neuen Nährstoffzufluss überhaupt in sichtbares Wachstum umzusetzen. Wer hier zu früh aufgibt, verpasst  den Moment, in dem sich die Geduld auszahlen würde.
 
 ## Was die Haarwurzel wirklich braucht
 

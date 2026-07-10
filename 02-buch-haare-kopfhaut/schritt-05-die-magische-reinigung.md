@@ -12,14 +12,14 @@ Wird falsch gewaschen – zu oft, mit dem falschen Produkt oder auf die falsche 
 
 Viele schieben zunehmend dünneres Haar aufs Alter. Dabei zeigt ein Blick in den eigenen Bekanntenkreis schnell: Es gibt genug ältere Menschen mit dichtem, gesundem, glänzendem Haar. Das liegt nicht allein in den Genen. Wie du wäschst, womit du wäschst und wie oft – all das spielt eine Rolle, die du selbst in der Hand hast.
 
-Ein weiterer Punkt, der in der Praxis oft übersehen wird: Beim Waschen wird häufig der Oberkopf gründlich durchgespült, während Nacken und Hinterkopf kaum wirklich erreicht werden. Das Ergebnis ist ein Haar, das am Oberkopf durch die viele Wäsche ausgelaugt und trocken wirkt, während es weiter unten am Kopf fettig bleibt. Wer das bei sich beobachtet, hat meist kein grundsätzliches Problem mit fettigem oder trockenem Haar, sondern schlicht eine Kopfhaut, die beim Waschen nicht überall gleich gründlich behandelt wird.
+Ein weiterer Punkt, der in der Praxis oft übersehen wird: Beim Waschen wird häufig der Oberkopf gründlich durchgewaschen, während Nacken und Hinterkopf kaum wirklich erreicht werden. Das Ergebnis ist ein Haar, das am Oberkopf durch die viele Wäsche ausgelaugt und trocken wirkt, während es weiter unten am Kopf fettig bleibt. Wer das bei sich beobachtet, hat meist kein grundsätzliches Problem mit fettigem oder trockenem Haar, sondern schlicht eine Kopfhaut, die beim Waschen nicht überall gleich gründlich behandelt wird.
 ## Welches Shampoo ist das richtige für dich?
 
-Grundsätzlich lassen sich Shampoos in zwei Gruppen einteilen: konventionelle Shampoos und Naturshampoos. Bei Letzteren lohnt sich ein genauerer Blick, denn die Bezeichnung "Naturshampoo" ist nicht geschützt. Ein Produkt darf sich in Österreich so nennen, auch wenn bis zu 20 Prozent chemische Inhaltsstoffe enthalten sind. Wer wirklich ein zu 100 Prozent natürliches Produkt möchte, kommt an einem Blick auf die Inhaltsliste nicht vorbei.
+Grundsätzlich lassen sich Shampoos in zwei Gruppen einteilen: konventionelle Shampoos und Naturshampoos. Bei Letzteren lohnt sich ein genauerer Blick, denn die Bezeichnung "Naturshampoo" ist nicht geschützt. Ein Produkt darf sich in Österreich so nennen, auch wenn bis zu ca.20 -40 Prozent chemische Inhaltsstoffe enthalten sind. Wer wirklich ein zu 100 Prozent natürliches Produkt möchte, kommt an einem Blick auf die Inhaltsliste nicht vorbei.
 
 ### Das konventionelle Shampoo
 
-In konventionellen Shampoos stecken häufig Silikone und ähnliche "Pflegestoffe". Sie legen sich als Schicht um das Haar und sorgen für das bekannte glatte, seidige Gefühl. Das Problem: Mit jeder Haarwäsche wird diese Schicht dicker und schwerer. Das Haar wirkt zunehmend platt, verliert an Volumen und fühlt sich schnell wieder fettig an – auch kurz nach dem Waschen. Die Kopfhaut bildet dabei mit der Zeit vermehrt Ablagerungen, die sich beim Bürsten als kleine Schüppchen zeigen können. Das führt nicht selten dazu, dass zu einem Schuppenshampoo gegriffen wird – was die eigentliche Ursache aber nicht behebt, sondern häufig zusätzlich reizt.
+In konventionellen Shampoos können häufig Silikone und ähnliche "Pflegestoffe"stecken. Sie legen sich als Schicht um das Haar und sorgen für das bekannte glatte, seidige Gefühl. Das Problem: Mit jeder Haarwäsche wird diese Schicht dicker und schwerer. Das Haar wirkt zunehmend platt, verliert an Volumen und fühlt sich schnell wieder fettig an – auch kurz nach dem Waschen. Die Kopfhaut bildet dabei mit der Zeit vermehrt Ablagerungen, die sich beim Bürsten als kleine Schüppchen zeigen können. Das führt nicht selten dazu, dass zu einem Schuppenshampoo gegriffen wird – was die eigentliche Ursache aber nicht behebt, sondern häufig zusätzlich reizt.
 
 ### Das Schuppenshampoo
 
@@ -45,7 +45,7 @@ Ein einfacher Hinweis beim Blick auf die Inhaltsliste: Endet ein Inhaltsstoff au
 
 Sobald du auf ein Naturshampoo umsteigst, beginnt sich diese Schicht Stück für Stück zu lösen. Genau das fühlt sich zunächst wie Verfilzung oder Trockenheit an – ist aber tatsächlich die freigelegte, echte Struktur deines Haares. Dieser Prozess kann, je nachdem wie viel Silikon sich über die Jahre angesammelt hat, zwischen einem und vier Monaten dauern, in hartnäckigen Fällen auch länger.
 
-In dieser Zeit kann sich das Haar außerdem elektrisch aufladen oder "fliegen". Das ist ein Zeichen von Feuchtigkeitsmangel, kein Grund zur Sorge – nach Jahren unter einer Silikonschicht war das Haar schlicht nicht in der Lage, Feuchtigkeit und Pflegestoffe von außen aufzunehmen. Nach dem Waschen mit Naturshampoo lohnt sich deshalb, wie im nächsten Kapitel beschrieben, der bewusste Griff zu einer naturbasierten Pflege – außer bei unbehandeltem Haar, das ohnehin kaum zu Verfilzung neigt.
+In dieser Zeit kann sich das Haar außerdem elektrisch aufladen oder "fliegen". Das ist ein Zeichen von Feuchtigkeitsmangel, kein Grund zur Sorge – nach Jahren unter einer Silikonschicht war das Haar schlicht nicht in der Lage, Feuchtigkeit und Pflegestoffe von außen aufzunehmen. Nach dem Waschen mit Naturshampoo lohnt sich deshalb, wie im nächsten Kapitel beschrieben, der bewusste Griff zu einer naturbasierten Pflege.
 
 Wichtig in dieser Phase: konsequent bleiben. Der Rückgriff auf das alte, konventionelle Shampoo, nur um kurzfristig wieder ein glattes Gefühl zu haben, führt die Silikonschicht sofort wieder zurück und verlängert die Umstellung unnötig.
 
@@ -85,7 +85,7 @@ Wiederhole den Vorgang mit dem zweiten Drittel der Flüssigkeit. Der entstehende
 
 Trage die letzten Tropfen gezielt auf die Stellen auf, die noch nicht richtig geschäumt haben, und massiere dort noch einmal nach, bis auch dort ein weicher, stabiler Schaum entsteht. Bei sehr fettigem Haar kann es nötig sein, für den dritten Durchgang auch das restliche Drittel zu verwenden. Anschließend gründlich auswaschen.
 
-Übrig gebliebene verdünnte Flüssigkeit lässt sich problemlos bis zur nächsten Haarwäsche aufbewahren oder zwischendurch zum Gesichtwaschen verwenden.
+Übrig gebliebene verdünnte Flüssigkeit lässt sich problemlos bis zur nächsten Haarwäsche aufbewahren oder zwischendurch zur Körperreinigung verwenden.
 
 ### Was es zu beachten gilt
 
@@ -107,7 +107,7 @@ An Tagen, an denen du das Haus nicht verlässt oder nach dem Sport, muss es nich
 
 Neben der Häufigkeit spielt auch die Temperatur des Wassers eine Rolle. Sehr heißes Wasser fühlt sich beim Waschen zwar angenehm an, entfettet die Kopfhaut aber zusätzlich und kann sie stärker austrocknen als nötig. Lauwarmes Wasser zum Einshampoonieren und ein kühlerer Guss zum abschließenden Ausspülen reichen völlig aus, reinigen genauso gründlich und schonen gleichzeitig Kopfhaut und Haarstruktur. Der kühlere Abschluss hat noch einen zweiten Effekt: Er lässt die äußere Schuppenschicht des Haares sich glätten, was zusätzlich für Glanz sorgt.
 
-Auch die Wasserhärte kann sich bemerkbar machen. In Regionen mit sehr kalkhaltigem Wasser kann sich mit der Zeit ein leichter Belag auf der Kopfhaut und im Haar bilden, der das Haar stumpfer wirken lässt und das Ausspülen des Shampoos erschwert. Wer das bei sich bemerkt, kann hin und wieder auf die im vorigen Abschnitt genannte Essig- oder Zitronenspülung zurückgreifen, die solche Kalkrückstände sanft löst.
+Auch die Wasserhärte kann sich bemerkbar machen. In Regionen mit sehr kalkhaltigem Wasser kann sich mit der Zeit ein leichter Belag auf der Kopfhaut und im Haar bilden, der das Haar stumpfer wirken lässt und das Ausspülen des Shampoos erschwert. Wer das bei sich bemerkt, kann hin und wieder auf Essig- oder Zitronenspülung zurückgreifen, die solche Kalkrückstände sanft löst.
 
 ## Konkrete Hilfe bei fettender Kopfhaut
 
@@ -172,7 +172,7 @@ Bleib bei einem einzigen Naturshampoo, statt in der Umstellungszeit mehrere Prod
 
 ## Das erzählen mir viele Kundinnen
 
-"Ich wasche meine Haare doch jeden Tag – warum sind sie trotzdem immer wieder fettig?" Diese Frage höre ich oft, und die Antwort liegt fast immer in der Methode, nicht im Haar selbst. Meist stellt sich heraus: gewaschen wird schnell, mit viel Produkt, nur einmal, und ausgespült wird eher oberflächlich. Sobald auf zwei gründliche Durchgänge mit verdünntem Naturshampoo umgestellt wird, verändert sich das Kopfhautgefühl oft schon nach wenigen Wochen spürbar – weniger Spannung, weniger Juckreiz, ein insgesamt leichteres Gefühl am Kopf.
+"Ich wasche meine Haare doch jeden Tag – warum sind sie trotzdem immer wieder fettig?" Diese Frage höre ich oft, und die Antwort liegt fast immer in der Methode, nicht im Haar selbst. Meist stellt sich heraus: gewaschen wird schnell, mit viel Produkt, nur einmal, und ausgespült wird eher oberflächlich. Sobald auf zwei gründliche Durchgänge mit verdünntem Naturshampoo umgestellt wird, verändert sich das Kopfhautgefühl oft schon nach wenigen Wochen, teilweise Tagen spürbar – weniger Spannung, weniger Juckreiz, ein insgesamt leichteres Gefühl am Kopf.
 
 Eine andere Kundin kam vor einiger Zeit mit dem gegenteiligen Problem zu mir: Sie hatte auf ein Naturshampoo umgestellt, war nach zwei Wochen aber frustriert, weil sich ihr Haar "schlechter als vorher" anfühlte. Nach einem kurzen Blick auf ihre Routine war klar: Sie befand sich mitten in der Ablösung der alten Silikonschicht – genau das Zeichen, dass die Umstellung griff, nicht dass sie misslang. Ein paar Wochen später, nachdem sie drangeblieben war, meldete sie sich von selbst zurück: Das Haar fühle sich zum ersten Mal seit Jahren "wirklich wie ihr eigenes" an.
 
