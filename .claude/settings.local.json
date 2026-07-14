@@ -41,7 +41,8 @@
       "Bash(pandoc -t markdown \"/Users/ineslehner/Downloads/Buchdateien /Taschenbuch neu Die 7 Grundlagen zur Lösung der gängigsten Haarprobleme.docx\")",
       "Bash(python3 -m pip install --user --quiet python-docx)",
       "WebFetch(domain:www.dermatologytimes.com)",
-      "Bash(git status *)"
+      "Bash(git status *)",
+      "WebFetch(domain:community.tressless.com)"
     ]
   }
 }
