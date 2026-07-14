@@ -46,7 +46,7 @@ Um solche Verspannungen zu lösen, hilft es, die Kopfhaut mit den Fingerkuppen i
 
 Für die Bürstenmassage bewährt sich eine Bürste aus Wildschweinborsten – aus gutem Grund, den ich meinen Kundinnen gern genauer erkläre, weil er oft der fehlende Puzzlestein ist.
 
-Wildschweinborsten haben zwei Eigenschaften, die eine Bürste aus Kunststoff, Metall oder Holz nicht bieten kann. Sie sind stabil und fest genug, um eine echte Massagewirkung auf der Kopfhaut zu erzeugen, statt beim ersten Kontakt mit Feuchtigkeit weich zu werden. Zweitens sind sie ideal darin, Sebum aufzunehmen und weiterzutransportieren – bis in die Längen und Spitzen, wie im letzten Kapitel beschrieben. Schmutz und überschüssiges Fett, das sich dabei in den Borsten sammelt, lässt sich anschließend einfach mit Wasser wieder auswaschen.
+Wildschweinborsten haben zwei Eigenschaften, die eine Bürste aus Kunststoff, Metall oder Holz nicht bieten kann. Sie sind stabil und fest genug, um eine echte Massagewirkung auf der Kopfhaut zu erzeugen.  Zweitens sind sie ideal darin, Sebum aufzunehmen und weiterzutransportieren – bis in die Längen und Spitzen, wie im letzten Kapitel beschrieben. Schmutz und überschüssiges Fett, das sich dabei in den Borsten sammelt, lässt sich anschließend einfach mit Wasser wieder auswaschen.
 
 Worauf es bei der Bürstenwahl konkret ankommt:
 
@@ -54,29 +54,29 @@ Worauf es bei der Bürstenwahl konkret ankommt:
 
 **Die Spitze der Borste.** Gute Borsten zeigen an der Spitze einen leichten Farbverlauf zwischen helleren und dunkleren Tönen. Das zeigt, welcher Teil der Borste unter der Haut saß – genau diese Seite sollte beim Bürsten verwendet werden, weil sie weder Haar noch Kopfhaut verletzt. Günstigere Bürsten haben oft scharf geschnittene, glatt abgeschnittene Spitzen, die eher zu kleinen Verletzungen an Kopfhaut und Haaroberfläche führen können.
 
-**Der Holzkörper.** Am angenehmsten in der Anwendung ist ein Griff ohne Stiel, der einfach in der Handfläche liegt – so lässt sich gleichmäßiger Druck auf die Kopfhaut ausüben. Eine leichte Wölbung, die der Kopfform entspricht, sorgt dafür, dass die Bürste flächig aufliegt, statt Luftpolster zu bilden, in denen sich sonst leichter Keime sammeln.
+**Der Holzkörper.** Am angenehmsten in der Anwendung ist ein Griff ohne Stiel, der einfach in der Handfläche liegt – so lässt sich gleichmäßiger Druck auf die Kopfhaut ausüben. Eine leichte Wölbung, die der Kopfform entspricht, sorgt dafür, dass die Bürste flächig aufliegt. Die Borsten in das Holz gearbeitet ,statt Luftpolster in denen die Borsten sitzen, in denen sich sonst leicht Keime sammeln.
 
-Zur Sorge um Tierwohl: Für eine hochwertige Wildschweinborstenbürste stirbt kein Tier eigens. Die verwendeten Borsten sind ein Nebenprodukt, das sonst entsorgt würde.
+Zur Sorge um Tierwohl: Für eine hochwertige Wildschweinborstenbürste stirbt kein Tier eigens. Die verwendeten Borsten sind ein Nebenprodukt, das sonst entsorgt würde. Zur Sicherheit bitte noch beim Hersteller nachfragen.
 
 ### Die Pflege der Bürste
 
-Wer täglich bürstet, sollte die Bürste etwa zwei- bis dreimal wöchentlich reinigen – dafür reicht meist schon ein gründliches Ausspülen mit lauwarmem Wasser. Ein altes Kammrest oder ein kleines Reinigungsbürstchen helfen, Haare aus den Borsten zu entfernen. Danach die Bürste auf einem Handtuch kurz ausklopfen und an der Luft trocknen lassen, nie auf der Heizung – nach vier bis fünf Stunden ist sie in der Regel wieder trocken.
+Wer täglich bürstet, sollte die Bürste etwa zwei- bis dreimal wöchentlich reinigen – dafür reicht meist schon ein gründliches Ausspülen mit lauwarmem Wasser. Ein alter Kamm oder ein kleines Reinigungsbürstchen helfen, Haare aus den Borsten zu entfernen. Danach die Bürste auf einem Handtuch kurz ausklopfen und an der Luft trocknen lassen, nie auf der Heizung – nach vier bis fünf Stunden ist sie in der Regel wieder trocken.
 
 Auch der Holzkörper verdient etwas Pflege. Ein wenig Bienenwachs oder Olivenöl, mit einem Tuch aufgetragen, hält das Holz geschmeidig und bringt es zum Glänzen. Eine gute Wildschweinborstenbürste ist eine Investition, die bei richtiger Pflege zwanzig bis dreißig Jahre halten kann – sie lohnt sich also, auch wenn sie zunächst etwas mehr kostet als eine Bürste aus dem Drogeriemarkt.
 
 ### Für Links- oder Rechtshänder
 
-Wildschweinborstenbürsten gibt es in Ausführungen für Links- und für Rechtshänder, abhängig davon, wie der Holzkörper in der Hand liegt und in welche Richtung sich der Druck beim Bürsten am natürlichsten ausüben lässt. Es lohnt sich, das beim Kauf zu beachten – eine Bürste, die nicht zur eigenen Handhaltung passt, macht es unnötig schwerer, gleichmäßigen Druck aufzubauen, besonders in den ersten Wochen der Gewöhnung.
+Wildschweinborstenbürsten gibt es auch manchmal in Ausführungen für Links- und für Rechtshänder, abhängig davon, wie der Holzkörper in der Hand liegt und in welche Richtung sich der Druck beim Bürsten am natürlichsten ausüben lässt. Es lohnt sich, das beim Kauf zu beachten – eine Bürste, die nicht zur eigenen Handhaltung passt, macht es unnötig schwerer, gleichmäßigen Druck aufzubauen, besonders in den ersten Wochen der Gewöhnung.
 
 ### Unterwegs und auf Reisen
 
-Auch auf Reisen lohnt es sich, die eigene Bürste dabei zu haben – sie ist klein, leicht und macht die tägliche Routine unabhängig vom Ort. Wer kurzfristig ohne sie auskommen muss, kann die Fingerkuppen als Übergangslösung nutzen: Auch eine reine Fingermassage regt die Durchblutung an, auch wenn sie das Sebum nicht so wirkungsvoll bis in die Spitzen verteilen kann wie die Bürste. Besser als gar nichts ist sie in jedem Fall.
+Auch auf Reisen lohnt es sich, die eigene Bürste dabei zu haben – sie macht die tägliche Routine unabhängig vom Ort. Wer kurzfristig ohne sie auskommen muss, kann die Fingerkuppen als Übergangslösung nutzen: Auch eine reine Fingermassage regt die Durchblutung an, auch wenn sie das Sebum nicht so wirkungsvoll bis in die Spitzen verteilen kann wie die Bürste. Besser als gar nichts ist sie in jedem Fall.
 
 ## Natürliche Öle sinnvoll einsetzen
 
 Öle können eine gute Ergänzung sein – vorausgesetzt, die Kopfhaut wurde vorher gründlich gereinigt. Auf einer sauberen Kopfhaut kann ein Öl seine Wirkung entfalten, seine Feuchtigkeit spenden und der Massage mehr Gleitfähigkeit geben. Auf einer überlagerten Kopfhaut bleibt es dagegen nur eine zusätzliche Schicht, die den Talg noch schwerer entfernbar macht.
 
-Bewährt haben sich Öle wie Jojobaöl, das der Struktur des körpereigenen Talgs sehr ähnlich ist, oder Rizinusöl, das gerne für die Längen verwendet wird. Wichtig ist, mit kleinen Mengen zu arbeiten – ein Öl soll unterstützen, nicht überlagern.
+Bewährt haben sich Öle wie Jojobaöl, Mandelöl und Kokosöl das der Struktur des körpereigenen Talgs sehr ähnlich ist, oder Rizinusöl, das gerne für die Längen verwendet wird. Wichtig ist, mit kleinen Mengen zu arbeiten – ein Öl soll unterstützen, nicht überlagern.
 
 ## Balsam, Kur und Spülung – was der Unterschied ist
 
@@ -102,7 +102,7 @@ Wäschst du bereits mit Naturshampoo oder befindest dich mitten in der Umstellun
 
 Zwei einfache Rezepte für zwischendurch, die sich bei trockenem oder strapaziertem Haar bewährt haben:
 
-**Aloe-Vera-Gel.** Das Gel eines Aloe-Vera-Blatts (oder ersatzweise Hauswurz, die europäische Alternative) mit ein bis zwei Tropfen Mandel- oder Olivenöl pürieren, etwas Honig einrühren. Auf handtuchtrockenes Haar auftragen, in die Längen einmassieren, maximal 30 Minuten einwirken lassen und gründlich ausspülen. Länger sollte das Gel wegen der Körperwärme nicht auf dem Haar bleiben, da es sonst zu oxidieren beginnt.
+**Aloe-Vera-Gel.** Das Gel eines Aloe-Vera-Blatts (oder ersatzweise Hauswurz, die europäische Alternative) mit ein bis zwei Tropfen Mandel- oder Olivenöl pürieren, etwas Honig einrühren. Auf handtuchtrockenes Haar auftragen, in die Längen einmassieren, maximal 30 Minuten einwirken lassen und gründlich ausspülen. Länger sollte das Gel wegen der Körperwärme nicht auf dem Haar bleiben, da es sonst das öl oxidieren beginnen könnte.
 
 **Essig- oder Zitronenspülung.** Einen Esslöffel Essig oder den Saft einer Zitrone mit einem Liter lauwarmem Wasser mischen. Nach dem Shampoonieren über die handtuchtrockenen Haare gießen, dabei auch die Kopfhaut mit erreichen. Diese Spülung unterstützt den leicht sauren pH-Wert der Kopfhaut, was die Regeneration begünstigt – sie sollte aber nicht zu häufig und nie in höherer Konzentration verwendet werden, da die Säure sonst selbst zur Belastung für das Haar wird. Eine Feuchtigkeitspflege ersetzt sie nicht.
 
@@ -122,23 +122,23 @@ Weil keine Kopfhaut der anderen gleicht, lohnt sich ein kurzer Blick darauf, wie
 
 **Fettende Kopfhaut.** Bürste vor der Wäsche, das entleert die Talgdrüsen bereits vor dem Waschen. Wasche höchstens zwei bis drei Mal pro Woche, dafür gründlich mit zwei Durchgängen. Verzichte auf reichhaltige Öle oder Balsam auf der Kopfhaut selbst, verwende sie höchstens in den Längen. Eine Brennnesselspülung, wie im vorigen Kapitel beschrieben, kann zusätzlich unterstützen.
 
-**Trockene Kopfhaut und trockenes Haar.** Reduziere die Waschhäufigkeit auf ein bis zwei Mal pro Woche, verwende ein besonders mildes Naturshampoo und ergänze regelmäßig mit Öl, etwa Jojobaöl direkt vor der Bürstenmassage. Aloe-Vera-Gel oder eine milde Essigspülung nach der Wäsche geben zusätzliche Feuchtigkeit.
+**Trockene Kopfhaut und trockenes Haar.** Reduziere die Waschhäufigkeit auf ein bis zwei Mal pro Woche, verwende ein besonders mildes Naturshampoo und ergänze regelmäßig mit Öl, etwa Jojobaöl direkt vor der Bürstenmassage. Aloe-Vera-Gel nach der Wäsche geben zusätzliche Feuchtigkeit.
 
 **Empfindliche, gereizte Kopfhaut.** Beginne mit sanftem Druck beim Bürsten und steigere langsam über mehrere Wochen. Verzichte vorerst auf Essig- oder Zitronenspülungen, bis sich die Kopfhaut beruhigt hat, und wähle ein möglichst reduziertes Shampoo mit wenigen Inhaltsstoffen. Bleibt die Reizung bestehen, lohnt sich, wie im letzten Kapitel dieses Buchs beschrieben, eine ärztliche Abklärung.
 
-**Chemisch behandeltes, strapaziertes Haar.** Ergänze die Bürstenmassage durch eine reichhaltige Kur ein bis zwei Mal im Monat und ein Öl in den Längen nach jeder Wäsche. Mit der Zeit, wenn das behandelte Haar herausgewachsen ist, lässt sich die Pflege schrittweise auf die einfachere Routine für natürliches Haar umstellen.
+**Chemisch behandeltes, strapaziertes Haar.** Ergänze die Bürstenmassage durch eine reichhaltige Kur ein bis zwei Mal im Monat mit Kokos-Öl in den Längen nach jeder Wäsche. Mit der Zeit, wenn das behandelte Haar herausgewachsen ist, lässt sich die Pflege schrittweise auf die einfachere Routine für natürliches Haar umstellen.
 
 Diese Einteilung ist eine erste Orientierung, kein starres Schema. Die eigene Kopfhaut verändert sich mit Jahreszeit, Stresslevel und Lebensphase – es lohnt sich, die Routine immer wieder neu an das anzupassen, was sich gerade zeigt.
 
 ## Wie eine gute Routine aussieht
 
-Eine Routine muss nicht kompliziert sein, um zu wirken. Sie muss vor allem regelmäßig sein. Ein realistisches Grundgerüst:
+Eine Routine muss nicht kompliziert sein, um zu wirken. Sie muss vor allem regelmäßig sein. Ein realistischer Plan:
 
 - Tägliches Bürsten mit spürbarem Druck, drei bis fünf Minuten, morgens oder abends – oder beides.
 - Bei Bedarf eine kurze Kopfhautmassage mit den Fingerspitzen, auch ohne Öl möglich.
 - Gründliche Reinigung beim Waschen, mit zwei Durchgängen.
-- Gelegentlich, je nach Kopfhauttyp, ein Öl oder eine Spülung als Ergänzung – aber nie als Ersatz für die Reinigung.
-- Bei chemisch behandeltem oder sehr trockenem Haar: ein bis zwei Mal im Monat ein reichhaltiger Balsam oder eine Kur.
+- Gelegentlich, je nach Kopfhauttyp, ein Öl oder eine Spülung als Ergänzung.
+- Bei chemisch behandeltem oder sehr trockenem Haar: nach jeder Wäsche einen Conditioner oder Balsam, ein bis zwei Mal im Monat eine Kur und anschließend einen Conditioner um die Kur im Haar zu halten(schließt die Schuppenschicht).
 
 Der Effekt zeigt sich nicht über Nacht. Aber wer diese kleinen Schritte über Wochen und Monate beibehält, gibt seiner Kopfhaut genau das, was sie braucht, um langfristig ein gutes Umfeld für das Haarwachstum zu bleiben.
 
@@ -152,7 +152,7 @@ Verknüpfe das Bürsten mit einer bestehenden Gewohnheit, etwa direkt nach dem Z
 
 Bewahre die Bürste sichtbar auf, zum Beispiel neben dem Spiegel im Bad, statt in einer Schublade. Was man sieht, wird eher gemacht.
 
-Erwarte den Effekt erst nach einigen Wochen, nicht nach wenigen Tagen. Wie bereits bei der Kopfhaut insgesamt beschrieben, braucht ein verändertes Gleichgewicht Zeit, um sich einzupendeln. Wer zu früh aufgibt, verpasst genau den Moment, in dem sich die Geduld auszahlen würde.
+Erwarte den Effekt nicht nach wenigen Tagen. Wie bereits bei der Kopfhaut insgesamt beschrieben, braucht ein verändertes Gleichgewicht Zeit, um sich einzupendeln. Wer zu früh aufgibt, verpasst genau den Moment, in dem sich die Geduld auszahlen würde.
 
 ## Was diese Routine nicht ist
 
@@ -169,8 +169,8 @@ Eine andere Kundin erzählte mir einmal, sie habe jahrelang Angst gehabt, überh
 ## Für deinen Alltag
 
 - Bürste täglich mit spürbarem Druck, mindestens drei Minuten, mit einer Wildschweinborstenbürste, die nur du selbst benutzt.
-- Achte bei der Bürstenwahl auf unregelmäßig angeordnete Borsten und einen stielfreien Holzgriff.
+- Achte bei der Bürstenwahl auf unregelmäßig angeordnete Borsten und der Kopfform entsprechend gebogen/geformt.
 - Reinige deine Bürste zwei- bis dreimal pro Woche mit lauwarmem Wasser, pflege das Holz gelegentlich mit etwas Öl.
-- Trage Öle, Balsam oder Kuren nur auf gründlich gereinigtes Haar auf, nie als Ersatz für die Reinigung.
-- Wähle deine Pflege nach Haartyp: chemisch behandeltes Haar braucht unterstützende Produkte, natürliches Haar profitiert vor allem vom Bürsten.
+- Trage Öle, Balsam oder Kuren nur auf gründlich gereinigtes Haar auf, mit 10cm Abstand zur Kopfhaut.
+- Wähle deine Pflege nach Haartyp: chemisch behandeltes Haar braucht unterstützende Produkte, natürliches Haar profitiert vor allem vom Bürsten und einer Feuchtigkeits Pflege.
 - Bleib bei Haarausfall besonders konsequent beim Bürsten – es verursacht das Ausfallen nicht, sondern unterstützt neues Wachstum.

@@ -42,7 +42,13 @@
       "Bash(python3 -m pip install --user --quiet python-docx)",
       "WebFetch(domain:www.dermatologytimes.com)",
       "Bash(git status *)",
-      "WebFetch(domain:community.tressless.com)"
+      "WebFetch(domain:community.tressless.com)",
+      "WebFetch(domain:make.wordpress.org)",
+      "Bash(python3 -c \"import weasyprint\")",
+      "Bash(python3 -m pip install --user --quiet weasyprint)",
+      "Bash(python3 -c \"import reportlab; print\\(reportlab.Version\\)\")",
+      "Bash(python3 -m pip install --user --quiet reportlab)",
+      "Bash(ls /System/Library/Fonts/Supplemental/ 2>/dev/null | grep -iE \"georgia|baskerville|didot|avenir|futura|garamond|palatino|athelas\" ; echo \"---\"; ls /Library/Fonts/ 2>/dev/null | head -30)"
     ]
   }
 }

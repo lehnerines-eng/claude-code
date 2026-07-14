@@ -2,16 +2,15 @@
 
 Die meisten Fragen rund um Haare und Kopfhaut lassen sich mit Geduld, guter Pflege und dem richtigen Wissen gut begleiten. Das hast du in den vorigen Kapiteln gesehen: Reinigung, Ernährung, Bürstenmassage und eine gute Pflegeroutine wirken bei den allermeisten Anliegen spürbar, wenn auch nicht über Nacht.
 
-Es gibt aber ein paar Situationen, in denen keine Pflegeroutine der Welt weiterhilft, weil eine medizinische Ursache dahintersteckt. Genau diese Situationen möchte ich hier klar benennen – nicht um zu beunruhigen, sondern um dir eine verlässliche Orientierung zu geben, wann der erste Weg nicht zur Kopfhautpflege, sondern zur Ärztin oder zum Arzt führen sollte.
+Es gibt aber ein paar Situationen, in denen keine Pflegeroutine der Welt weiterhilft, weil eine medizinische Ursache dahintersteckt. Genau diese Situationen möchte ich hier klar benennen – nicht um zu beunruhigen, sondern um dir eine verlässliche Orientierung zu geben, wann der erste Weg zur Ärztin oder zum Arzt führen sollte.
 
 ## Diese Anzeichen gehören in ärztliche Hände
 
 - Kreisrunde, klar abgegrenzte kahle Stellen
 - Plötzlicher, sehr starker Haarausfall ohne erkennbaren Auslöser
 - Eine Kopfhaut, die entzündet, gerötet oder schmerzhaft ist
-- Bereiche, die vernarbt wirken oder in denen keine Follikelöffnungen mehr sichtbar sind
 - Haarausfall im Zusammenhang mit einer neuen Erkrankung oder einem neuen Medikament
-- Schuppenbildung, die mit nässenden Stellen unter der Kopfhaut einhergeht
+- Schuppenbildung, die mit nässenden Stellen auf der Kopfhaut einhergeht
 - Anhaltend brennende, gerötete Kopfhaut ohne erkennbare äußere Ursache
 
 Diese Anzeichen können auf Erkrankungen wie kreisrunden Haarausfall (Alopecia areata), eine vernarbende Alopezie, eine Pilzinfektion oder eine andere dermatologische Erkrankung hinweisen. Manche dieser Formen lassen sich rein optisch kaum von harmloseren Ursachen unterscheiden – etwa eine sich lösende Schuppenplatte, unter der sich eine nässende Stelle zeigt, kann ebenso gut auf einen Pilz wie auf etwas Harmloseres hindeuten. Das sind medizinische Diagnosen, die ausschließlich eine Ärztin oder ein Arzt stellen kann. Eine frühzeitige Abklärung entscheidet hier oft darüber, wie gut sich etwas noch beeinflussen lässt.
@@ -38,5 +37,5 @@ Haare sind auch Ausdruck von innerem Gleichgewicht – von Schlaf, Ernährung, S
 
 - Beobachte deine Kopfhaut und dein Haar bewusst, damit dir Veränderungen frühzeitig auffallen.
 - Bei einem der oben genannten Anzeichen: zeitnah eine Ärztin oder einen Arzt aufsuchen, statt erst länger selbst auszuprobieren.
-- Sieh die ärztliche Abklärung nicht als Rückschritt, sondern als Grundlage, auf der die weitere Pflege sicher aufbauen kann.
+- Sieh die ärztliche Abklärung als Grundlage, auf der die weitere Pflege sicher aufbauen kann.
 - Ist die medizinische Seite geklärt, kannst du dich mit gutem Gewissen der praktischen, alltäglichen Pflege widmen, die in diesem Buch beschrieben ist.
