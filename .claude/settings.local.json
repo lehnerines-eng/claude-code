@@ -39,7 +39,9 @@
       "Bash(mv kapitel-05-ernaehrung-und-haare.md schritt-04-die-magische-kraft-der-ernaehrung.md)",
       "Bash(mv kapitel-06-die-richtige-reinigung.md schritt-05-die-magische-reinigung.md)",
       "Bash(pandoc -t markdown \"/Users/ineslehner/Downloads/Buchdateien /Taschenbuch neu Die 7 Grundlagen zur Lösung der gängigsten Haarprobleme.docx\")",
-      "Bash(python3 -m pip install --user --quiet python-docx)"
+      "Bash(python3 -m pip install --user --quiet python-docx)",
+      "WebFetch(domain:www.dermatologytimes.com)",
+      "Bash(git status *)"
     ]
   }
 }
