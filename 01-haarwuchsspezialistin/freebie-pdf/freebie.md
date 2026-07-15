@@ -80,9 +80,11 @@ Häufiges Färben, Glätten oder Dauerwellen belastet nicht nur das Haar selbst,
 
 ## Und jetzt?
 
-Wenn du erkannt hast, dass eine oder mehrere dieser Ursachen bei dir eine Rolle spielen könnten, ist der nächste sinnvolle Schritt eine wirklich individuelle Auswertung – keine allgemeine Liste, sondern eine Einschätzung, die zu deiner Kopfhaut, deiner Geschichte und deinem Alltag passt.
+Jetzt kennst du zehn der häufigsten Ursachen für Haarausfall – aber eine allgemeine Liste kann dir nie sagen, was bei dir ganz konkret zutrifft. Vielleicht ist es eine einzelne Ursache, vielleicht ein Zusammenspiel aus mehreren. Das herauszufinden, ist genau das, wofür ich meine Online-Auswertung entwickelt habe.
 
-Genau das biete ich dir mit meiner Online-Auswertung: Du füllst einen Fragebogen aus, schickst mir ein paar Fotos, und ich schreibe dir eine persönliche Auswertung mit einem individuellen Plan.
+Du erzählst mir über einen Fragebogen von deinem Anliegen und schickst mir ein paar Fotos deiner Kopfhaut dazu. Ich nehme mir deine Angaben und Fotos genau vor, gehe den möglichen Ursachen auf den Grund und schreibe dir daraus ein ausführliches, persönlich für dich verfasstes Dokument – keine allgemeine Empfehlung, sondern eine Einschätzung, die wirklich zu deiner Kopfhaut, deiner Geschichte und deinem Alltag passt, inklusive einem konkreten Plan für deine Routine zu Hause. Innerhalb von 7 Tagen hast du sie in deinem Postfach.
+
+Das Ganze funktioniert komplett online, ganz gleich, wo du wohnst, für 200 €. Du musst also nicht raten, was als Nächstes sinnvoll ist – du bekommst Klarheit.
 
 **[CTA-Button: Jetzt Online-Auswertung starten]**
 

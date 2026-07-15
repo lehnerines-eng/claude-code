@@ -48,7 +48,10 @@
       "Bash(python3 -m pip install --user --quiet weasyprint)",
       "Bash(python3 -c \"import reportlab; print\\(reportlab.Version\\)\")",
       "Bash(python3 -m pip install --user --quiet reportlab)",
-      "Bash(ls /System/Library/Fonts/Supplemental/ 2>/dev/null | grep -iE \"georgia|baskerville|didot|avenir|futura|garamond|palatino|athelas\" ; echo \"---\"; ls /Library/Fonts/ 2>/dev/null | head -30)"
+      "Bash(ls /System/Library/Fonts/Supplemental/ 2>/dev/null | grep -iE \"georgia|baskerville|didot|avenir|futura|garamond|palatino|athelas\" ; echo \"---\"; ls /Library/Fonts/ 2>/dev/null | head -30)",
+      "mcp__claude-in-chrome__tabs_context_mcp",
+      "mcp__claude-in-chrome__tabs_create_mcp",
+      "mcp__claude-in-chrome__computer"
     ]
   }
 }
