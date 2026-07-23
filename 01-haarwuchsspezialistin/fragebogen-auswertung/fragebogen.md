@@ -11,12 +11,14 @@ Stand: 2026-07-09, gemeinsam mit Claude erarbeitet, vertieft mit Fachwissen aus
 - Was beschreibt dein Anliegen am besten?
   - Diffuser Haarausfall — "diffus" heißt: nicht an einer Stelle, sondern gleichmäßig über den ganzen Kopf verteilt, langsam dünner werdend
   - Geheimratsecken
+  - Oberkopfglatze / starker Haarverlust am Oberkopf
   - Kreisrunde, klar abgegrenzte kahle Stellen
   - Kopfhautprobleme ohne spürbaren Haarausfall
   - Anderes
 - Seit wann bemerkst du die Veränderung?
 - Kam sie eher plötzlich oder schleichend?
 - Wie ist der Verlauf? (gleichbleibend / langsam schlimmer / stark schwankend)
+- Nur bei starken Geheimratsecken oder Oberkopfglatze: Hast du einen kräftigen, dichten Bartwuchs?
 
 ## 3. Deine Kopfhaut
 - Zustand: trocken / fettig / juckend / brennend / schuppend / gerötet / unauffällig

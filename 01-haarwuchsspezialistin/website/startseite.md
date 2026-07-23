@@ -31,6 +31,10 @@ Zwei Wege, ein Ziel: dass du verstehst, was deine Haare und deine Kopfhaut wirkl
 
 Ich war selbst klassische Friseurin, bevor ich gemerkt habe, wie sehr chemische Produkte mir und meinen Kundinnen geschadet haben. Seitdem widme ich mich mit ganzem Herzen der Frage, wie Haar und Kopfhaut wirklich gesund werden. → [Meine ganze Geschichte]
 
+## Mein Buch
+
+**„Traum-Haar" — 7 magische Schritte zu deinem natürlich schönen Haar.** Mein E-Book bringt dir das Wichtigste aus über 25 Jahren Erfahrung in klaren, alltagstauglichen Schritten näher — der ideale Einstieg, wenn du auf eigene Faust loslegen möchtest. → [Jetzt entdecken]
+
 ## Footer
 
 Ines Lehner – Spezialistin für Haarwuchs & Kopfhautgesundheit
