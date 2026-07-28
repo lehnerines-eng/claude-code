@@ -44,9 +44,13 @@ Stand: 2026-07-09, gemeinsam mit Claude erarbeitet, vertieft mit Fachwissen aus
 - OP, Geburt, Erkrankung, Hormonumstellung oder starker Stress in den
   letzten 6–12 Monaten?
 - Medikamente aktuell, insbesondere Blutverdünner/Gerinnungshemmer?
-- Neurodermitis oder andere Hautbedingungen, ggf. mit Cortison behandelt?
+- Neurodermitis oder andere Hautkrankheiten, ggf. mit Cortison behandelt?
 - Haarausfall in der Familie?
 - Bereits ärztlich festgestellter Nährstoffmangel?
+- Bemerkst du häufige Müdigkeit/Erschöpfung, blasse Haut, auffällige
+  Augenringe oder Schlafprobleme? (Hinweis auf mögl. Eisenmangel/Anämie
+  bzw. Stress/Hormonhaushalt)
+- Ist ein Schilddrüsenproblem bekannt, oder werden Schilddrüsenmedikamente genommen?
 - Regelmäßiger Kontakt mit Chemikalien/Umweltbelastung, Rauchen?
 
 ## 7. Ernährung & Genuss
@@ -60,6 +64,8 @@ Stand: 2026-07-09, gemeinsam mit Claude erarbeitet, vertieft mit Fachwissen aus
 ## 8. Haarpflege-Routine
 - Waschfrequenz
 - Aktuelle Produkte (Marke/Art)
+- Verwendest du eher Naturkosmetik/naturnahe Produkte oder konventionelle
+  Drogerie-/Markenprodukte?
 - Hitze-Styling (Föhn, Glätteisen) — wie oft?
 - Chemische Behandlungen zuletzt (Farbe, Dauerwelle, Glättung)?
 
@@ -68,7 +74,9 @@ Stand: 2026-07-09, gemeinsam mit Claude erarbeitet, vertieft mit Fachwissen aus
 - Regelmäßige Saunanutzung?
 
 ## 10. Bisherige Versuche
-- Was hast du bisher schon ausprobiert?
+- Was hast du bisher schon gegen deinen Haarausfall bzw. deine
+  Kopfhautprobleme ausprobiert (z. B. Produkte, Kuren, Nahrungsergänzung,
+  Hausmittel, ärztliche Behandlungen)?
 - Was hat geholfen, was nicht?
 
 ## 11. Dein Ziel
@@ -77,6 +85,9 @@ Stand: 2026-07-09, gemeinsam mit Claude erarbeitet, vertieft mit Fachwissen aus
 ## 12. Fotos
 - Scheitel von oben, Stirn-Haaransatz, Hinterkopf — bei Tageslicht,
   ungestyltes Haar
+- Haare nach oben/zusammengebunden gehalten, sodass der Bereich hinter
+  den Ohren und am Hinterkopf gut sichtbar ist — besonders, ob dort viele
+  extra kurze, neu nachwachsende Härchen zu erkennen sind
 - (Anleitung an die genauen Vorgaben des KI-Bildanalyse-Tools anpassen,
   sobald bekannt)
 

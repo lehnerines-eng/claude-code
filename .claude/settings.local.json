@@ -53,7 +53,10 @@
       "mcp__claude-in-chrome__tabs_create_mcp",
       "mcp__claude-in-chrome__computer",
       "Bash(python3 -)",
-      "Bash(python3 build_book_pdf.py)"
+      "Bash(python3 build_book_pdf.py)",
+      "mcp__visualize__read_me",
+      "Skill(artifact-design)",
+      "Skill(artifact-design:*)"
     ]
   }
 }
