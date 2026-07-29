@@ -32,7 +32,7 @@ Manche wünschen sich nach ihrer Auswertung noch etwas mehr Begleitung. Dafür g
 
 **Ein persönliches Gespräch mit mir.** Wenn du deine Auswertung lieber im direkten Austausch besprechen möchtest, nehmen wir uns gemeinsam 45 Minuten Zeit für ein persönliches Zoom-Gespräch – für 200 €.
 
-Noch aussagekräftiger ist eine persönliche Auswertung mit der Kopfhautkamera bei mir vor Ort, weil wir dabei gemeinsam live und im Detail hinschauen können. Die Online-Auswertung ist aber eine sehr gute und fundierte Basis, wenn eine Anreise zu mir gerade nicht infrage kommt.
+Noch aussagekräftiger ist eine persönliche Auswertung mit der Kopfhautkamera bei mir vor Ort (299 €), weil wir dabei gemeinsam live und im Detail hinschauen können. Die Online-Auswertung ist aber eine sehr gute und fundierte Basis, wenn eine Anreise zu mir gerade nicht infrage kommt.
 
 *Bei akutem, sehr starkem oder plötzlichem Haarausfall sowie bei kreisrunden oder vernarbten kahlen Stellen ersetzt diese Auswertung keinen Arztbesuch – darauf weise ich dich dann auch in deiner Auswertung klar hin.*
 

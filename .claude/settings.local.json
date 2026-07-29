@@ -56,7 +56,8 @@
       "Bash(python3 build_book_pdf.py)",
       "mcp__visualize__read_me",
       "Skill(artifact-design)",
-      "Skill(artifact-design:*)"
+      "Skill(artifact-design:*)",
+      "Bash(ls \"/Users/ineslehner/Downloads/Fotos von Carolin/\" 2>/dev/null | grep -i \"kamera\\\\|kopfhaut\" ; echo \"---\"; ls \"/Users/ineslehner/Downloads/\" 2>/dev/null | grep -i \"kamera\\\\|kopfhaut\")"
     ]
   }
 }
