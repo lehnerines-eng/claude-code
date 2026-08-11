@@ -57,7 +57,15 @@
       "mcp__visualize__read_me",
       "Skill(artifact-design)",
       "Skill(artifact-design:*)",
-      "Bash(ls \"/Users/ineslehner/Downloads/Fotos von Carolin/\" 2>/dev/null | grep -i \"kamera\\\\|kopfhaut\" ; echo \"---\"; ls \"/Users/ineslehner/Downloads/\" 2>/dev/null | grep -i \"kamera\\\\|kopfhaut\")"
+      "Bash(ls \"/Users/ineslehner/Downloads/Fotos von Carolin/\" 2>/dev/null | grep -i \"kamera\\\\|kopfhaut\" ; echo \"---\"; ls \"/Users/ineslehner/Downloads/\" 2>/dev/null | grep -i \"kamera\\\\|kopfhaut\")",
+      "Bash(find /Users/ineslehner/.claude/projects/-Users-ineslehner-claude-code/ -maxdepth 2 -type d -name 55d87671*)",
+      "mcp__visualize__show_widget",
+      "mcp__claude-in-chrome__find",
+      "mcp__claude-in-chrome__javascript_tool",
+      "mcp__claude-in-chrome__tabs_close_mcp",
+      "mcp__claude-in-chrome__read_console_messages",
+      "mcp__claude-in-chrome__read_network_requests",
+      "mcp__claude-in-chrome__resize_window"
     ]
   }
 }
